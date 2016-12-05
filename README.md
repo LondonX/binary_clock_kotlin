@@ -1,2 +1,5 @@
-# binary_clock_kotlin
-A clock in binary live wallpaper coded with kotlin
+# Binary clock kotlin
+
+![preview](img_preview.png)
+## download
+[app-release1.0.apk](app-release-1.0.apk)
